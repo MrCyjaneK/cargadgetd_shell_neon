@@ -1,0 +1,5 @@
+*.list
+_out/
+*.rpm
+rpms/
+.DS_Store
